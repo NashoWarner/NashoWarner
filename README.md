@@ -40,6 +40,6 @@ Me esfuerzo por mejorar mis habilidades y conocimientos en el campo de la inform
 
 ## ⚡ Dato curioso
 
-Soy un apasionado por la ciberseguridad y siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y conocimientos en este campo en constante evolución.
+Soy un apasionado por la computación en la nube y siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y conocimientos en este campo en constante evolución.
 
 ¡Gracias por visitar mi perfil! 😊
