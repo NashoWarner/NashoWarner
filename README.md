@@ -1,45 +1,65 @@
+# Ignacio Covarrubias 👋
 
+## 👨‍💻 Sobre mí
+Ingeniero en Informática con enfoque en **Backend y Cloud Computing**.  
+Trabajo principalmente con **Python**, **Django** y **AWS**, y me interesa el diseño de arquitecturas escalables, automatización y buenas prácticas en la nube.  
+Me motiva aprender constantemente y enfrentar desafíos técnicos reales.
 
-<!--
-**NashoWarner/NashoWarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Ignacio 👋
+### Lenguajes
+- Python  
+- Java  
+- C# (básico)  
+- SQL / NoSQL  
+- XML  
 
-## Acerca de mí
+### Backend & Web
+- Django  
+- Django Channels  
+- HTML, CSS  
+- Bootstrap  
 
-Soy un estudiante de ingeniería informática con un interés particular en ciberseguridad. Actualmente estoy en mi segundo año de carrera y me esfuerzo por aprender cada día más.
+### Cloud & DevOps
+- AWS (IAM, EC2, S3, VPC, Lambda)  
+- Docker  
 
-## 💻 Herramientas y Tecnologías
+### Bases de Datos
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- Oracle Database  
 
-- **Lenguajes de Programación:** Python, C# (básico), XML, Java, SQL, NOSQL
-- **Desarrollo Web:** HTML, CSS, Django, Django channels, Bootstrap
-- **Bases de Datos:** Oracle Database, MySQL, MongoDB, Google Cloud, PosgreSQL, phpMyAdmin
-- **Herramientas de Desarrollo:** Visual Studio Code, Android Studio, Unity Hub, Xcode
-- **Metodologías:** SCRUM, Design Thinking, Waterfall
-- **Control de Versiones:** Git
+### Herramientas
+- Visual Studio Code  
+- Git & GitHub  
+- Android Studio  
+- Xcode  
 
-## 🚀 Objetivos
+### Metodologías
+- SCRUM  
+- Design Thinking  
+- Waterfall  
 
-Me esfuerzo por mejorar mis habilidades y conocimientos en el campo de la informática. Siempre estoy abierto a nuevas oportunidades y desafíos que me ayuden a aprender más y crecer como profesional.
+---
 
-## 📫 Cómo contactarme
+## 🎯 En qué estoy enfocado
+- Desarrollo Backend con Python  
+- Arquitectura en la nube con AWS  
+- Automatización y buenas prácticas DevOps  
+- Creación de proyectos escalables y mantenibles  
 
-- [LinkedIn] www.linkedin.com/in/ignacio-covarrubias-warner-63951b263
-- [Correo Electrónico](nashowarner022@gmail.com)
+---
+
+## 📫 Contacto
+- 💼 LinkedIn: https://www.linkedin.com/in/ignacio-covarrubias-warner-63951b263  
+- 📧 Email: nashowarner022@gmail.com  
+
+---
 
 ## ⚡ Dato curioso
+Me apasiona la computación en la nube y siempre estoy buscando cómo optimizar y escalar soluciones usando AWS ☁️🚀
 
-Soy un apasionado por la computación en la nube y siempre estoy en busca de nuevos desafíos para mejorar mis habilidades y conocimientos en este campo en constante evolución.
-
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil!
