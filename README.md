@@ -1,65 +1,22 @@
 # Ignacio Covarrubias 👋
 
-## 👨‍💻 Sobre mí
-Ingeniero en Informática con enfoque en **Backend y Cloud Computing**.  
-Trabajo principalmente con **Python**, **Django** y **AWS**, y me interesa el diseño de arquitecturas escalables, automatización y buenas prácticas en la nube.  
-Me motiva aprender constantemente y enfrentar desafíos técnicos reales.
+Ingeniero en Informática titulado, con enfoque en **Backend y Cloud Computing**.  
+Certificado **AWS Cloud Practitioner** y en preparación para **AWS Solutions Architect – Associate**.  
+Me interesa el diseño de arquitecturas en la nube, automatización y prácticas DevOps a nivel junior.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes
-- Python  
-- Java  
-- C# (básico)  
-- SQL / NoSQL  
-- XML  
-
-### Backend & Web
-- Django  
-- Django Channels  
-- HTML, CSS  
-- Bootstrap  
-
-### Cloud & DevOps
-- AWS (IAM, EC2, S3, VPC, Lambda)  
-- Docker  
-
-### Bases de Datos
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-- Oracle Database  
-
-### Herramientas
-- Visual Studio Code  
-- Git & GitHub  
-- Android Studio  
-- Xcode  
-
-### Metodologías
-- SCRUM  
-- Design Thinking  
-- Waterfall  
+### 🧠 Stack técnico
+**Lenguajes:** Python · Java · SQL · NoSQL · C# (básico) · XML  
+**Backend:** Django · Django Channels · APIs REST  
+**Cloud & DevOps:** AWS (IAM, EC2, S3, VPC, Lambda, CDK) · Docker · CI/CD básico  
+**Bases de Datos:** PostgreSQL · MySQL · MongoDB · Oracle  
+**Herramientas:** Git · GitHub · VS Code · DbVisualizer  
 
 ---
 
-## 🎯 En qué estoy enfocado
-- Desarrollo Backend con Python  
-- Arquitectura en la nube con AWS  
-- Automatización y buenas prácticas DevOps  
-- Creación de proyectos escalables y mantenibles  
+Actualmente busco oportunidades **Backend / Cloud / DevOps Junior**, donde pueda crecer técnicamente y aportar con buenas prácticas y aprendizaje constante.
 
----
-
-## 📫 Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/ignacio-covarrubias-warner-63951b263  
-- 📧 Email: nashowarner022@gmail.com  
-
----
-
-## ⚡ Dato curioso
-Me apasiona la computación en la nube y siempre estoy buscando cómo optimizar y escalar soluciones usando AWS ☁️🚀
-
-¡Gracias por visitar mi perfil!
+📫 **Contacto**  
+- LinkedIn: https://www.linkedin.com/in/ignacio-covarrubias-warner-63951b263  
+- Email: nashowarner022@gmail.com
